@@ -35,17 +35,9 @@ Passionate about learning, writing code, and making things happen.
 <!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
 | Year | Title                                    | Technologies                           |
 |------|------------------------------------------|----------------------------------------|
-| 2024 | [timjames.dev](https://github.com/mirandagabbara/skribble "Project Repo") | ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) | ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) |
-| 2024 | [Finance Tracking Tooling](https://github.com/Tim-W-James/finance-tooling "Project Repo") | ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![scikit-learn](https://img.shields.io/badge/-scikit%20learn-black?style=flat-square&logo=scikitlearn) |
+| 2024 | [AI Skribble](https://github.com/mirandagabbara/skribble "Project Repo") | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+| 2024 | [Personal Website](https://github.com/mirandagabbara/personal-website "Project Repo") | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 	![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) |
 
 <br>
 
----
-
-### 🛠️ Core Technologies
-<!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![React](https://img.shields.io/badge/-React%20JS-black?style=flat-square&logo=react)
-![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwindcss)
-![Amazon Web Services](https://img.shields.io/badge/-Amazon%20Web%20Services-black?style=flat-square&logo=amazonaws)
 ---
