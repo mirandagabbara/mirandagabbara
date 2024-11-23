@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 - 👨‍💼 **Purchasing Intern** at [MAHLE](https://www.mahle.com/purchasing/ "MAHLE Purchasing Website")
 - 🎓 **Bachelor of Computer Science** at [Michigan State University](https://engineering.msu.edu/about/departments/cse "MSU CSE")
 - 📫 How to reach me: [Email](mailto:mirandagabbara@gmail.com "mirandagabbara@gmail.com") || [LinkedIn](https://www.linkedin.com/in/mirandagabbara/ "mirandagabbara")
-- 🗺️ Located in **Washingotn, Michigan**
+- 🗺️ Located in **Washington, Michigan**
 - 👀 I’m interested in roles in software consulting, cybersecurity, AI, and development.
 - 🌱 I’m currently learning JavaScript!
 
